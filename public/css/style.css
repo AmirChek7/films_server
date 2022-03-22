@@ -2,6 +2,10 @@ table, tr, td {
     border-collapse: collapse;
     border: 1px solid black;
 }
+body {
+    background-color: lightpink;
+}
+
 tr:first-child td {
     font-weight: bold;
     font-size: 20px;

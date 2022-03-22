@@ -40,3 +40,5 @@ app.get('/:name', function(req, res) {
         res.sendFile(__dirname + '/404.html');
     }  
 });
+
+console.log("hello world");
